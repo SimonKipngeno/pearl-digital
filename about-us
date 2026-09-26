@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="author" content="Enoch Oguna" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>About Us | Pearl Digital</title>
+    <link rel="icon" href="html5.html" type="image/png" />
+  </head>
+  <body>
+    <h1>About Pearl Digital</h1>
+    <hr />
+    <!--Main Section-->
+    <section>
+      <p>
+        We are <strong>Pearl Digital</strong>, a Nairobi-based web development
+        agencythat builds fast, clean, and responsive websites for small
+        businesses and startups.
+      </p>
+      <p>
+        Our team of experienced developers and designers is dedicated to
+        delivering <em>high-quality web solutions</em> that help our clients
+        establish a strong online presence.
+      </p>
+    </section>
+
+    <section>
+      <h2>Our Mission</h2>
+      <p>
+        Our mission is to help businesses setablish
+        <strong>a strong presence online</strong> by providing high-quality web
+        development services that are both affordable and effective.
+      </p>
+    </section>
+
+    <section>
+      <h2>Meet the Team</h2>
+      <p>
+        Our team is made up of talented and passionate individuals who are
+        committed to <em>delivering exceptional results</em> for our clients.
+        Meet them below:
+      </p>
+      <ul>
+        <li>Enoch Oguna - Founder</li>
+        <li>Caleb - Frontend Developer</li>
+        <li>Tasnim - Backend Developer</li>
+        <li>Evans - Project Manager</li>
+        <li>Simon Kipngeno - UI/UX Designer</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Our Story</h2>
+      <p>
+        Pearl Digital started in 2026 when <strong>five developers</strong> met
+        in a coding bootcamp and noticed the same problem everywhere: great
+        local businesses stuck with slow, outdated websites.
+      </p>
+      <p>
+        So we teamed up. Today we design and build websites that load fast, work
+        on every device, and <em>turn visitors into customers</em>.
+      </p>
+    </section>
+
+    <section>
+      <h2>Contact Us</h2>
+      <p>If you'd like to work with us, please DM us at:</p>
+      <address>
+        Pearl Digital<br />
+        Nairobi, Kenya<br />
+        Email: <a href="https://instagram.com" target="_blank">@pearldigital</a>
+      </address>
+    </section>
+  </body>
+</html>
